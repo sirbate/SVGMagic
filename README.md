@@ -110,16 +110,6 @@
   <li>Ejemplos visuales y recomendaciones</li>
 </ul>
 
-<hr>
-
-<h2 id="autor">👨‍💻 Autor</h2>
-
-<p>
-  <strong>Tu Nombre</strong><br>
-  <a href="https://linkedin.com/in/tuusuario">LinkedIn</a> • 
-  <a href="https://tusitio.com">Portafolio</a> • 
-  <a href="mailto:tucorreo@dominio.com">Email</a>
-</p>
 
 <hr>
 
