@@ -1,96 +1,137 @@
-# 🧩 SVG to Power Apps + YAML Converter
+<h1>🧩 SVG to Power Apps + YAML Converter</h1>
 
-Herramienta web para convertir gráficos SVG en código compatible con Power Apps y estructuras YAML reutilizables. Incluye vista previa, copiado rápido y una galería de SVGs descargables para tus proyectos.
+<p>
+  Herramienta web para convertir gráficos SVG en código compatible con Power Apps y estructuras YAML reutilizables. 
+  Incluye vista previa, copiado rápido y una galería de SVGs descargables para tus proyectos.
+</p>
 
-[![Web Tool](https://img.shields.io/badge/Probar%20herramienta-En%20línea-blue)](https://tusitio.vercel.app)
+<p>
+  <a href="https://tusitio.vercel.app">
+    <img src="https://img.shields.io/badge/Probar%20herramienta-En%20línea-blue" alt="Web Tool">
+  </a>
+</p>
 
----
+<hr>
 
-## 📚 Tabla de Contenidos
+<h2>📚 Tabla de Contenidos</h2>
+<ul>
+  <li><a href="#introducción">📖 Introducción</a></li>
+  <li><a href="#funcionalidades">⚙️ Funcionalidades</a></li>
+  <li><a href="#vista-de-la-herramienta">📸 Vista de la herramienta</a></li>
+  <li><a href="#cómo-usar-la-herramienta">🌐 Cómo usar la herramienta</a></li>
+  <li><a href="#descarga-svgs-para-tus-proyectos">🎨 Descarga SVGs para tus proyectos</a></li>
+  <li><a href="#manual-práctico-svg-en-power-apps">📘 Manual práctico: SVG en Power Apps</a></li>
+  <li><a href="#autor">👨‍💻 Autor</a></li>
+  <li><a href="#licencia">📄 Licencia</a></li>
+</ul>
 
-- [📖 Introducción](#introducción)
-- [⚙️ Funcionalidades](#funcionalidades)
-- [📸 Vista de la herramienta](#vista-de-la-herramienta)
-- [🌐 Cómo usar la herramienta](#cómo-usar-la-herramienta)
-- [🎨 Descarga SVGs para tus proyectos](#descarga-svgs-para-tus-proyectos)
-- [📘 Manual práctico: SVG en Power Apps](#manual-práctico-svg-en-power-apps)
-- [👨‍💻 Autor](#autor)
-- [📄 Licencia](#licencia)
+<hr>
 
----
+<h2 id="introducción">📖 Introducción</h2>
+<p>
+  Esta herramienta convierte gráficos SVG en código listo para usarse en Power Apps o estructuras YAML. 
+  Puedes pegar SVGs, generar código con un clic, y también descargar los SVGs o navegar por una galería con íconos y gráficos listos para usar.
+</p>
 
-## 📖 Introducción
+<hr>
 
-Esta herramienta convierte gráficos SVG en código listo para usarse en Power Apps o estructuras YAML. Puedes pegar SVGs, generar código con un clic, y también descargar los SVGs o navegar por una galería con íconos y gráficos listos para usar.
+<h2 id="funcionalidades">⚙️ Funcionalidades</h2>
+<ul>
+  <li>🔁 Conversión de SVG a fórmula <code>Concatenate(...)</code> para Power Apps</li>
+  <li>🔄 Generación de estructura YAML lista para usar</li>
+  <li>👁️ Vista previa en tiempo real del SVG procesado</li>
+  <li>📋 Copiar código generado con un solo clic</li>
+  <li>💾 Descarga del SVG original para uso web o diseño</li>
+  <li>🎨 Galería de SVGs gratis para descargar e integrar</li>
+</ul>
 
----
+<hr>
 
-## ⚙️ Funcionalidades
+<h2 id="vista-de-la-herramienta">📸 Vista de la herramienta</h2>
 
-- 🔁 Conversión de SVG a fórmula `Concatenate(...)` para Power Apps
-- 🔄 Generación de estructura YAML lista para usar
-- 👁️ Vista previa en tiempo real del SVG procesado
-- 📋 Copiar código generado con un solo clic
-- 💾 Descarga del SVG original para uso web o diseño
-- 🎨 Galería de SVGs gratis para descargar e integrar
+<table>
+  <tr>
+    <th>Carga SVG</th>
+    <th>Conversión a código</th>
+    <th>Descarga</th>
+    <th>YAML</th>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/upload.png" alt="svg-upload" width="200"></td>
+    <td><img src="./screenshots/code.png" alt="code" width="200"></td>
+    <td><img src="./screenshots/download.png" alt="download" width="200"></td>
+    <td><img src="./screenshots/yaml.png" alt="yaml" width="200"></td>
+  </tr>
+</table>
 
----
+<hr>
 
-## 📸 Vista de la herramienta
+<h2 id="cómo-usar-la-herramienta">🌐 Cómo usar la herramienta</h2>
+<ol>
+  <li>Abre la app en: <a href="https://tusitio.vercel.app">https://tusitio.vercel.app</a></li>
+  <li>Carga un archivo <code>.svg</code> o pega el código SVG</li>
+  <li>Selecciona:
+    <ul>
+      <li><code>Generar Código Power Apps</code></li>
+      <li><code>Generar YAML</code></li>
+    </ul>
+  </li>
+  <li>Haz clic en:
+    <ul>
+      <li>✅ <strong>Copiar código</strong></li>
+      <li>💾 <strong>Descargar SVG</strong></li>
+    </ul>
+  </li>
+  <li>¡Listo! Ya puedes pegarlo en tu app o guardar el SVG para tus diseños.</li>
+</ol>
 
-| Carga SVG | Conversión a código | Descarga | YAML |
-|-----------|---------------------|----------|------|
-| ![svg-upload](./screenshots/upload.png) | ![code](./screenshots/code.png) | ![download](./screenshots/download.png) | ![yaml](./screenshots/yaml.png) |
+<hr>
 
----
+<h2 id="descarga-svgs-para-tus-proyectos">🎨 Descarga SVGs para tus proyectos</h2>
 
-## 🌐 Cómo usar la herramienta
+<p>
+  ¿No tienes un SVG a mano? Explora nuestra galería con SVGs listos para usar:
+</p>
 
-1. Abre la app en: [https://tusitio.vercel.app](https://tusitio.vercel.app)
-2. Carga un archivo `.svg` o pega el código SVG
-3. Selecciona:
-   - `Generar Código Power Apps`
-   - `Generar YAML`
-4. Haz clic en:
-   - ✅ **Copiar código**
-   - 💾 **Descargar SVG**
-5. ¡Listo! Ya puedes pegarlo en tu app o guardar el SVG para tus diseños.
+<p>
+  👉 <a href="https://tusitio.vercel.app/svg-gallery">Visitar la galería de SVGs</a>
+</p>
 
----
+<ul>
+  <li>🖼️ Íconos minimalistas</li>
+  <li>🧩 Ilustraciones para apps</li>
+  <li>📊 Gráficos para dashboards</li>
+  <li>✅ Compatibles con Power Apps y desarrollo web</li>
+</ul>
 
-## 🎨 Descarga SVGs para tus proyectos
+<hr>
 
-¿No tienes un SVG a mano? Explora nuestra galería con SVGs listos para usar:
+<h2 id="manual-práctico-svg-en-power-apps">📘 Manual práctico: SVG en Power Apps</h2>
 
-👉 [Visitar la galería de SVGs](https://tusitio.vercel.app/svg-gallery)
+<ul>
+  <li>¿Dónde pegar el código?</li>
+  <li>Cómo usar <code>Concatenate(...)</code></li>
+  <li>Cómo controlar el tamaño y color</li>
+  <li>Tips para limpiar el código SVG antes de convertirlo</li>
+  <li>Ejemplos visuales y recomendaciones</li>
+</ul>
 
-- 🖼️ Íconos minimalistas
-- 🧩 Ilustraciones para apps
-- 📊 Gráficos para dashboards
-- ✅ Compatibles con Power Apps y desarrollo web
+<hr>
 
----
+<h2 id="autor">👨‍💻 Autor</h2>
 
-## 📘 Manual práctico: SVG en Power Apps
+<p>
+  <strong>Tu Nombre</strong><br>
+  <a href="https://linkedin.com/in/tuusuario">LinkedIn</a> • 
+  <a href="https://tusitio.com">Portafolio</a> • 
+  <a href="mailto:tucorreo@dominio.com">Email</a>
+</p>
 
-Aprende a insertar, editar y aprovechar SVGs en Power Apps:
+<hr>
 
-- ¿Dónde pegar el código?
-- Cómo usar `Concatenate(...)`
-- Cómo controlar el tamaño y color
-- Tips para limpiar el código SVG antes de convertirlo
-- Ejemplos visuales y recomendaciones
+<h2 id="licencia">📄 Licencia</h2>
 
----
-
-## 👨‍💻 Autor
-
-**Tu Nombre**  
-[LinkedIn](https://linkedin.com/in/tuusuario) • [Portafolio](https://tusitio.com) • [Email](mailto:tucorreo@dominio.com)
-
----
-
-## 📄 Licencia
-
-MIT — Puedes usar, modificar y compartir libremente esta herramienta.  
-¡Una estrella ⭐ ayuda mucho si te fue útil!
+<p>
+  MIT — Puedes usar, modificar y compartir libremente esta herramienta.<br>
+  ¡Una estrella ⭐ ayuda mucho si te fue útil!
+</p>
