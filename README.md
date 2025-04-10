@@ -51,7 +51,18 @@ Subir captura de herramienta en uso
     </ul>
   </li>
   <li>¡Listo! Ya puedes pegarlo en tu app.</li>
-    <li>Para usar en tu aplicación tienes dos opciones, dependiendo tu anterior selección
+    </ul>
+  </li>
+</ol>
+
+
+
+
+<h2 id="cómo-usar-la-herramienta">🚀 Cómo usar un SVG en Power Apps</h2>
+<ol>
+  
+  </li>
+  <li>Haz clic en
     <ul>
       <li>- Ccódigo Power FX </li>
       <p>1. Abre tu aplicación</p>
