@@ -1,7 +1,7 @@
 <h1>🧙‍♂️ SVG Magic for Power Apps</h1>
 
 <blockquote>
-  Herramienta web para convertir gráficos SVG en código compatible con Power Apps y estructuras YAML.
+  Incluir íconos personalizados en Power Apps puede ser un desafío. Las imágenes tradicionales pueden perder calidad y dificultar la adaptación a la paleta de colores de tu aplicación. Aunque los SVG ofrecen una alternativa más flexible y escalable, integrarlos requiere manipulación manual del código y ajustes de color. <strong>SVG Magic</strong> simplifica este proceso, permitiéndote editar y exportar tus gráficos SVG de manera eficiente, generando el código necesario para integrarlos perfectamente en tus aplicaciones.
 </blockquote>
 
 <div align="center">
