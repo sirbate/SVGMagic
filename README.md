@@ -91,9 +91,10 @@ Subir captura de herramienta en uso
     <li><a href="https://fonts.google.com/icons" target="_blank"><strong>Material Icons</strong></a> – Íconos de Google, ideales para interfaces limpias.</li>
   </ul>
 
-  
-
-
+  <Br>
+<hr>
+<Br>
+<Br>
 <div align="center">
   <p>Hecho con ❤️ por <a href="https://github.com/sirbate">Andrés Velásquez</a></p>
   <p>Este proyecto no fue probado en producción... pero sí en sueños.</p>
