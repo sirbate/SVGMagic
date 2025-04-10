@@ -4,9 +4,7 @@
   Herramienta web para convertir gráficos SVG en código compatible con Power Apps y estructuras YAML.
 </blockquote>
 
-![](/assets/SVGMagicIcon.png)
-
-  <img src="assets/SVGMagicIcon.png" width="300" height="300" alt="SVG Magic for Power Apps" />
+  <img src="assets/SVGMagicIcon.png" width="1024" height="752" alt="SVG Magic for Power Apps" />
 
 <h2>📚 Contenido</h2>
 <ul>
