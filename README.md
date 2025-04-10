@@ -12,7 +12,6 @@
   <li><a href="#vista-de-la-herramienta">📸 Vista de la herramienta</a></li>
   <li><a href="#cómo-usar-la-herramienta">🚀 Cómo usar la herramienta</a></li>
   <li><a href="#descarga-svgs-para-tus-proyectos">🔥 Bonus: Descarga SVGs para tus proyectos</a></li>
-  <li><a href="#manual-práctico-svg-en-power-apps">📘 Manual práctico: SVG en Power Apps</a></li>
 </ul>
 
 <hr>
@@ -91,18 +90,6 @@ Subir captura de herramienta en uso
 
 <hr>
 
-<h2 id="manual-práctico-svg-en-power-apps">📘 Manual práctico: SVG en Power Apps</h2>
-
-<ul>
-  <li>¿Dónde pegar el código?</li>
-  <li>Cómo usar <code>Concatenate(...)</code></li>
-  <li>Cómo controlar el tamaño y color</li>
-  <li>Tips para limpiar el código SVG antes de convertirlo</li>
-  <li>Ejemplos visuales y recomendaciones</li>
-</ul>
-
-
-<hr>
 
 <div align="center">
   <p>Hecho con ❤️ por <a href="https://github.com/sirbate">Andrés Velásquez</a></p>
