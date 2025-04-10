@@ -1,9 +1,10 @@
 <h1>🧩 SVG to Power Apps + YAML Converter</h1>
 
-<p>
+<blockquote>
   Herramienta web para convertir gráficos SVG en código compatible con Power Apps y estructuras YAML reutilizables. 
   Incluye vista previa, copiado rápido y una galería de SVGs descargables para tus proyectos.
-</p>
+</blockquote>
+
 
 <p>
   <a href="https://tusitio.vercel.app">
