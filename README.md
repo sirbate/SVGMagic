@@ -1,80 +1,101 @@
-<!-- README.html / GitHub landing -->
+# 🎯 Ejemplos de Tablas de Contenido para README
 
-<h1>🧙‍♂️ SVG Magic for Power Apps</h1>
+---
 
-<blockquote>
-  Transforma gráficos SVG en fragmentos funcionales de Power FX y YAML para Power Apps — de forma simple, visual y profesional.
-</blockquote>
+## ✅ 1. TOC Clásica y limpia
 
-<hr>
+- [Descripción](#descripción)
+- [Características](#características)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Capturas de Pantalla](#capturas-de-pantalla)
+- [Tecnologías](#tecnologías)
+- [Autor](#autor)
+- [Licencia](#licencia)
 
-<nav>
-  <ul>
-    <li><a href="#funcionalidades">⚙️ Funcionalidades</a></li>
-    <li><a href="#como-usar">🧪 Cómo usar esta herramienta</a></li>
-    <li><a href="#preview">🖼️ Captura</a></li>
-    <li><a href="#autor">👨‍💻 Autor</a></li>
-    <li><a href="#licencia">🪪 Licencia</a></li>
-  </ul>
-</nav>
+---
 
-<hr>
+## 🧭 2. TOC con emojis
 
-<h2 id="funcionalidades">⚙️ Funcionalidades</h2>
-<ul>
-  <li>✅ Conversión directa de SVG a Power FX (EncodeUrl con base64)</li>
-  <li>✅ Generador automático de bloques YAML listos para importar</li>
-  <li>✅ Carga de SVG por texto o archivo</li>
-  <li>✅ Vista previa interactiva del SVG</li>
-  <li>✅ Selector de color integrado (Pickr)</li>
-  <li>✅ Soporte multilenguaje: Español 🇪🇸, Inglés 🇺🇸, Portugués 🇧🇷</li>
-  <li>✅ Interfaz oscura moderna, responsiva y ligera</li>
-</ul>
+- 📌 [Introducción](#introducción)
+- ⚙️ [Funcionalidades](#funcionalidades)
+- 📥 [Instalación](#instalación)
+- 🖥️ [Uso](#uso)
+- 🧠 [Notas Técnicas](#notas-técnicas)
+- 📸 [Ejemplos Visuales](#ejemplos-visuales)
+- 👨‍💻 [Autor](#autor)
+- 🪪 [Licencia](#licencia)
 
-<hr>
+---
 
-<h2 id="como-usar">🧪 Cómo usar esta herramienta</h2>
+## 🗂️ 3. TOC con subniveles
 
-<h3>1️⃣ Copiar Código Power FX</h3>
-<p>
-  Pega tu SVG o súbelo → se genera automáticamente la línea Power FX con <code>EncodeUrl</code>:
-</p>
-<pre><code>= "data:image/svg+xml;utf8," & EncodeUrl("&lt;svg...&gt;")</code></pre>
-<p>Luego podés usarlo directamente en un control de imagen en Power Apps.</p>
+- [1. Descripción General](#1-descripción-general)
+- [2. Instalación](#2-instalación)
+  - [2.1 Requisitos previos](#21-requisitos-previos)
+  - [2.2 Instrucciones paso a paso](#22-instrucciones-paso-a-paso)
+- [3. Uso](#3-uso)
+  - [3.1 Modo local](#31-modo-local)
+  - [3.2 Modo web (Vercel)](#32-modo-web-vercel)
+- [4. Capturas de Pantalla](#4-capturas-de-pantalla)
+- [5. Contribuciones](#5-contribuciones)
+- [6. Créditos y autoría](#6-créditos-y-autoría)
 
-<h3>2️⃣ Copiar bloque YAML</h3>
-<p>
-  La herramienta también genera automáticamente un bloque YAML estructurado:
-</p>
+---
 
-<pre><code>- SVGMagic:
-    Control: Image
-    Properties:
-        Image: '= "data:image/svg+xml; utf-8, " & EncodeUrl($"&lt;svg ... /&gt;")'
-        Height: =150
-        Width: =150
-        X: =50
-        Y: =50
-</code></pre>
+## 🎯 4. TOC minimalista con guiones
 
-<p>Este bloque puede ser utilizado en configuraciones avanzadas, documentación técnica o flujos ALM.</p>
+- [🔹 Qué es este proyecto](#-qué-es-este-proyecto)
+- [🔧 Cómo instalar](#-cómo-instalar)
+- [🚀 Cómo usar](#-cómo-usar)
+- [📎 Enlaces útiles](#-enlaces-útiles)
 
-<hr>
+---
 
-<h2 id="preview">🖼️ Captura de pantalla</h2>
-<p>Vista de la herramienta en ejecución:</p>
-<img src="./screenshots/preview.png" alt="Vista previa de SVG Magic" width="700px" />
+## 📚 5. TOC expandida para documentaciones largas
 
-<hr>
+- [📖 Introducción](#introducción)
+- [🎯 Objetivos](#objetivos)
+- [🧰 Herramientas utilizadas](#herramientas-utilizadas)
+- [🛠️ Instalación](#instalación)
+  - [Descarga](#descarga)
+  - [Importación a Word](#importación-a-word)
+  - [Despliegue en la Web](#despliegue-en-la-web)
+- [⚙️ Funcionamiento](#funcionamiento)
+- [📸 Vistas del usuario](#vistas-del-usuario)
+  - [Selección de contrato](#selección-de-contrato)
+  - [Campos dinámicos](#campos-dinámicos)
+  - [Contrato generado](#contrato-generado)
+- [🧪 Código fuente](#código-fuente)
+  - [Funciones JS](#funciones-js)
+  - [HTML](#html)
+  - [Estilos CSS](#estilos-css)
+- [📦 Repositorio y despliegue](#repositorio-y-despliegue)
+- [👤 Cliente](#cliente)
+- [🧠 Autor y contacto](#autor-y-contacto)
 
-<h2 id="autor">👨‍💻 Autor</h2>
-<p><strong>Andrés Velásquez</strong><br>
-<a href="https://linkedin.com/in/andresvelasquezb" target="_blank">LinkedIn</a> • 
-<a href="https://andresvelasquez.dev" target="_blank">Portafolio</a> • 
-<a href="mailto:andres.velasquez@powerapps.com">Correo</a></p>
+---
 
-<hr>
+## 🧩 6. TOC para proyectos tipo componente o plugin
 
-<h2 id="licencia">🪪 Licencia</h2>
-<p><strong>MIT</strong> — libre para usar, modificar y compartir.<br>
-Por favor menciona el proyecto si te fue útil. 😊</p>
+- [🔔 Componente](#componente)
+- [🎨 Personalización](#personalización)
+- [⚙️ Integración](#integración)
+- [💬 API de uso](#api-de-uso)
+- [📂 Archivos incluidos](#archivos-incluidos)
+- [👨‍💻 Autor y créditos](#autor-y-créditos)
+
+---
+
+## 🧪 7. TOC con estilos y enlaces externos
+
+- [📘 Documentación Oficial](https://docs.microsoft.com/en-us/office/dev/add-ins/)
+- [📦 Instalación](#instalación)
+- [💡 Ejemplos](#ejemplos)
+- [💬 Preguntas Frecuentes](#preguntas-frecuentes)
+- [🧠 Código Destacado](#código-destacado)
+
+---
+
+> 💡 Puedes copiar cualquiera de estas secciones al inicio de tu README. ¡GitHub generará los enlaces automáticamente si los encabezados coinciden!
+
