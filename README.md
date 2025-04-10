@@ -123,15 +123,7 @@
 
 <hr>
 
-<h2 id="licencia">📄 Licencia</h2>
-
-<p>
-  MIT — Puedes usar, modificar y compartir libremente esta herramienta.<br>
-  ¡Una estrella ⭐ ayuda mucho si te fue útil!
-</p>
-
-
 <div align="center">
-  <p>Hecho con café ☕, bugs 🐛 y hechizos ✨ por <a href="https://github.com/sirbate">Andrés Velásquez</a></p>
+  <p>Hecho con pasión, café y alguna que otra crisis existencial por <a href="https://github.com/sirbate">Andrés Velásquez</a></p>
   <p>Este proyecto no fue probado en producción... pero sí en sueños.</p>
 </div>
