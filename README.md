@@ -21,7 +21,8 @@
 
 <h2 id="funcionalidades">⚙️ Funcionalidades</h2>
 <ul>
-  <li>✅ Pegar código SVG o cargar archivos SVG directamente</li>
+  <li>✅ Pegar código SVG</li>
+  <li>✅ Cargar archivos SVG directamente</li>
   <li>✅ Vista previa en tiempo real del SVG</li>
   <li>✅ Edición de color principal</li>
   <li>✅ Generación de código Power FX</li>
