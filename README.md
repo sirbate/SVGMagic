@@ -4,7 +4,8 @@
   Herramienta web para convertir gráficos SVG en código compatible con Power Apps y estructuras YAML. 
 </blockquote>
 
-<hr>
+
+  
 
 <h2>📚 Contenido</h2>
 <ul>
@@ -14,7 +15,8 @@
   <li><a href="#descarga-svgs-para-tus-proyectos">🔥 Bonus: Descarga SVGs para tus proyectos</a></li>
 </ul>
 
-<hr>
+
+  
 
 <h2 id="funcionalidades">⚙️ Funcionalidades</h2>
 <ul>
@@ -25,13 +27,14 @@
   <li>✅ Generación de estructura YAML</li>
 </ul>
 
-<hr>
+
+  
 
 <h2 id="vista-de-la-herramienta">📸 Vista de la herramienta</h2>
 
 Subir captura de herramienta en uso
 
-<hr>
+  
 
 <h2 id="cómo-usar-la-herramienta">🚀 Cómo usar la herramienta</h2>
 <ol>
@@ -65,7 +68,7 @@ Subir captura de herramienta en uso
   </li>
 </ol>
 
-<hr>
+  
 
 <h2 id="descarga-svgs-para-tus-proyectos">🔥 Bonus: Descarga SVGs para tus proyectos</h2>
 <p>¿No tienes un SVG a mano? Estas páginas te ofrecen miles de recursos gratuitos y personalizables:</p>
@@ -88,7 +91,7 @@ Subir captura de herramienta en uso
     <li><a href="https://fonts.google.com/icons" target="_blank"><strong>Material Icons</strong></a> – Íconos de Google, ideales para interfaces limpias.</li>
   </ul>
 
-<hr>
+  
 
 
 <div align="center">
