@@ -118,3 +118,86 @@ Subir captura de herramienta en uso
   <p>Hecho con ❤️ por <a href="https://github.com/sirbate">Andrés Velásquez</a></p>
   <p>Este proyecto no fue probado en producción... pero sí en sueños.</p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Versión 1: Tarjetas limpias -->
+  <div class="section">
+    <h2>🎨 Recursos de SVG gratuitos (Tarjetas)</h2>
+    <p>Explora estas bibliotecas externas para encontrar íconos, ilustraciones y formas SVG:</p>
+
+    <table>
+      <tr>
+        <td>🧰 <a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a><br><small>Íconos personalizables, estilo UI</small></td>
+        <td>✨ <a href="https://heroicons.com/" target="_blank">Heroicons</a><br><small>Íconos para interfaces modernas</small></td>
+        <td>🧪 <a href="https://svgl.app/" target="_blank">SVGL</a><br><small>Editor visual + exportador de SVG</small></td>
+      </tr>
+      <tr>
+        <td>🧙 <a href="https://fontawesome.com/icons" target="_blank">Font Awesome</a><br><small>Extensa biblioteca de íconos</small></td>
+        <td>📚 <a href="https://www.svgrepo.com/" target="_blank">SVG Repo</a><br><small>Millones de SVGs descargables</small></td>
+        <td>🎨 <a href="https://www.svgbackgrounds.com/" target="_blank">SVG Backgrounds</a><br><small>Fondos abstractos en SVG</small></td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Versión 2: Lista markdown-friendly -->
+  <div class="section">
+    <h2>🧱 Explora librerías SVG (Lista compacta)</h2>
+    <ul>
+      <li><a href="https://feathericons.com/" target="_blank"><strong>Feather Icons</strong></a> – Íconos minimalistas, peso ligero.</li>
+      <li><a href="https://iconoir.com/" target="_blank"><strong>Iconoir</strong></a> – Gran colección open-source.</li>
+      <li><a href="https://lucide.dev/" target="_blank"><strong>Lucide</strong></a> – Revisión de Feather con mejoras visuales.</li>
+      <li><a href="https://www.flaticon.com/" target="_blank"><strong>Flaticon</strong></a> – Miles de íconos editables.</li>
+      <li><a href="https://www.iconmonstr.com/" target="_blank"><strong>Iconmonstr</strong></a> – Estilo consistente y limpio.</li>
+    </ul>
+  </div>
+
+  <!-- Versión 3: Agrupado por categoría -->
+  <div class="section">
+    <h2>💡 Encuentra el SVG perfecto (Por categoría)</h2>
+    <p>Estas páginas te ofrecen SVGs para todos los gustos:</p>
+
+    <p><strong>🎯 Interfaz de usuario:</strong><br>
+    <a href="https://icons.getbootstrap.com/">Bootstrap Icons</a>
+    <a href="https://feathericons.com/">Feather Icons</a>
+    <a href="https://lucide.dev/">Lucide</a></p>
+
+    <p><strong>🎨 Ilustraciones y fondos:</strong><br>
+    <a href="https://www.svgbackgrounds.com/">SVG Backgrounds</a>
+    <a href="https://undraw.co/illustrations">unDraw</a></p>
+
+    <p><strong>🧠 Todo tipo de SVGs:</strong><br>
+    <a href="https://www.svgrepo.com/">SVG Repo</a> 
+    <a href="https://svgl.app/">SVGL</a>
+    <a href="https://www.iconmonstr.com/">Iconmonstr</a></p>
+  </div>
+
+  <!-- Versión 4: Lista markdown clásica -->
+  <div class="section">
+    <h2>📁 Galerías Recomendadas (Estilo markdown)</h2>
+    <p>🔗 Haz clic en cualquiera para explorar y descargar SVGs:</p>
+    <ul>
+      <li><a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a></li>
+      <li><a href="https://heroicons.com/" target="_blank">Heroicons</a></li>
+      <li><a href="https://www.svgrepo.com/" target="_blank">SVG Repo</a></li>
+      <li><a href="https://lucide.dev/" target="_blank">Lucide Icons</a></li>
+      <li><a href="https://www.iconmonstr.com/" target="_blank">Iconmonstr</a></li>
+      <li><a href="https://www.streamlinehq.com/" target="_blank">Streamline Icons</a></li>
+      <li><a href="https://www.svgbackgrounds.com/" target="_blank">SVG Backgrounds</a></li>
+      <li><a href="https://fontawesome.com/icons" target="_blank">Font Awesome</a></li>
+    </ul>
+  </div>
+
