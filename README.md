@@ -10,6 +10,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://svgmagic-sirbates-projects.vercel.app/"  target="_blank">
+    <img src="assets/SVGMagicIcon" width="717" height="527" alt="SVG Magic for Power Apps" />
+  </a>
+</div>
+
 <h2>📚 Contenido</h2>
 <ul>
   <li><a href="#funcionalidades">⚙️ Funcionalidades</a></li>
