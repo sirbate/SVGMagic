@@ -1,82 +1,69 @@
-<h1>🧙‍♂️ SVG Magic</h1>
+<h1>🧙‍♂️ SVG Magic for Power Apps</h1>
 
 <blockquote>
-  Herramienta web para convertir gráficos SVG en código compatible con Power Apps y estructuras YAML reutilizables. 
-  Incluye vista previa, copiado rápido y una galería de SVGs descargables para tus proyectos.
+  Herramienta web para convertir gráficos SVG en código compatible con Power Apps y estructuras YAML. 
 </blockquote>
 
 <hr>
 
-<h2>📚 Contenidos</h2>
+<h2>📚 Contenido</h2>
 <ul>
-  <li><a href="#introducción">📖 Introducción</a></li>
   <li><a href="#funcionalidades">⚙️ Funcionalidades</a></li>
   <li><a href="#vista-de-la-herramienta">📸 Vista de la herramienta</a></li>
-  <li><a href="#cómo-usar-la-herramienta">🌐 Cómo usar la herramienta</a></li>
+  <li><a href="#cómo-usar-la-herramienta">🚀 Cómo usar la herramienta</a></li>
   <li><a href="#descarga-svgs-para-tus-proyectos">🎨 Bonus: Descarga SVGs</a></li>
   <li><a href="#manual-práctico-svg-en-power-apps">📘 Manual práctico: SVG en Power Apps</a></li>
-  <li><a href="#autor">👨‍💻 Autor</a></li>
-  <li><a href="#licencia">📄 Licencia</a></li>
 </ul>
-
-<hr>
-
-<h2 id="introducción">📖 Introducción</h2>
-<p>
-  Esta herramienta convierte gráficos SVG en código listo para usarse en Power Apps o estructuras YAML. 
-  Puedes pegar SVGs, generar código con un clic, y también descargar los SVGs o navegar por una galería con íconos y gráficos listos para usar.
-</p>
 
 <hr>
 
 <h2 id="funcionalidades">⚙️ Funcionalidades</h2>
 <ul>
-  <li>🔁 Conversión de SVG a fórmula <code>Concatenate(...)</code> para Power Apps</li>
-  <li>🔄 Generación de estructura YAML lista para usar</li>
-  <li>👁️ Vista previa en tiempo real del SVG procesado</li>
-  <li>📋 Copiar código generado con un solo clic</li>
-  <li>💾 Descarga del SVG original para uso web o diseño</li>
-  <li>🎨 Galería de SVGs gratis para descargar e integrar</li>
+  <li>✅ Pegar código SVG o cargar archivos SVG directamente</li>
+  <li>✅ Vista previa en tiempo real del SVG</li>
+  <li>✅ Edición de color principal</li>
+  <li>✅ Generación de código Power FX </li>
+  <li>✅ Generación de estructura YAML</li>
 </ul>
 
 <hr>
 
 <h2 id="vista-de-la-herramienta">📸 Vista de la herramienta</h2>
 
-<table>
-  <tr>
-    <th>Carga SVG</th>
-    <th>Conversión a código</th>
-    <th>Descarga</th>
-    <th>YAML</th>
-  </tr>
-  <tr>
-    <td><img src="./screenshots/upload.png" alt="svg-upload" width="200"></td>
-    <td><img src="./screenshots/code.png" alt="code" width="200"></td>
-    <td><img src="./screenshots/download.png" alt="download" width="200"></td>
-    <td><img src="./screenshots/yaml.png" alt="yaml" width="200"></td>
-  </tr>
-</table>
+Subir captura de herramienta en uso
 
 <hr>
 
-<h2 id="cómo-usar-la-herramienta">🌐 Cómo usar la herramienta</h2>
+<h2 id="cómo-usar-la-herramienta">🚀 Cómo usar la herramienta</h2>
 <ol>
-  <li>Abre la app en: <a href="https://tusitio.vercel.app">https://tusitio.vercel.app</a></li>
+  <li>Abre la app en: <a href="https://svgmagic-sirbates-projects.vercel.app/">https://svgmagic-sirbates-projects.vercel.app/</a></li>
+  
   <li>Carga un archivo <code>.svg</code> o pega el código SVG</li>
-  <li>Selecciona:
-    <ul>
-      <li><code>Generar Código Power Apps</code></li>
-      <li><code>Generar YAML</code></li>
-    </ul>
+  
+  <li>Si el SVG seleccionado sólo tiene un color podrás cambiar su color:
+
   </li>
   <li>Haz clic en:
     <ul>
-      <li>✅ <strong>Copiar código</strong></li>
-      <li>💾 <strong>Descargar SVG</strong></li>
+      <li>💾 Copiar código Power FX </li>
+      <li>💾 Copiar estructura YAML</li>
     </ul>
   </li>
-  <li>¡Listo! Ya puedes pegarlo en tu app o guardar el SVG para tus diseños.</li>
+  <li>¡Listo! Ya puedes pegarlo en tu app.</li>
+    <li>Para usar en tu aplicación tienes dos opciones, dependiendo tu anterior selección
+    <ul>
+      <li>- Ccódigo Power FX </li>
+      <p>1. Abre tu aplicación</p>
+      <p>2. Inserta una imagen "Image"   </p>
+      <p>3. En su propiedad Image, pega el código que copiaste desde SVG Magic </p>
+      <p>4. Modifica el tamaño y ubica la imagen a tu gusto</p>
+      <li>💾 Copiar estructura YAML</li>
+      <p>1. Abre tu aplicación</p>
+      <p>2. Abre la vista de árbol y busca la pantalla donde quieras insertar el SVG</p>
+      <p>3. Selecciona los tres puntos, seguido selecciona "Pegar -preview-"</p>
+      <p>4. Se insertará una imagen con nombre "SVGMagic", modifica el tamaño y ubica la imagen a tu gusto</p>
+    </ul>
+  </li>
 </ol>
 
 <hr>
@@ -84,19 +71,22 @@
 <h2 id="descarga-svgs-para-tus-proyectos">🎨 Descarga SVGs para tus proyectos</h2>
 
 <p>
-  ¿No tienes un SVG a mano? Explora nuestra galería con SVGs listos para usar:
+  ¿No tienes un SVG a mano? En las siguientes galerías de páginas externas puedes encontrar algunos:
 </p>
 
-<p>
-  👉 <a href="https://tusitio.vercel.app/svg-gallery">Visitar la galería de SVGs</a>
-</p>
-
-<ul>
-  <li>🖼️ Íconos minimalistas</li>
-  <li>🧩 Ilustraciones para apps</li>
-  <li>📊 Gráficos para dashboards</li>
-  <li>✅ Compatibles con Power Apps y desarrollo web</li>
-</ul>
+<p><a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a></p>
+<p><a href="https://svgl.app/" target="_blank">SVGL</a></p>
+<p><a href="https://heroicons.com/" target="_blank">Heroicons</a></p>
+<p><a href="https://fontawesome.com/icons" target="_blank">Font Awesome</a></p>
+<p><a href="https://www.svgrepo.com/" target="_blank">SVG Repo</a></p>
+<p><a href="https://www.svgbackgrounds.com/" target="_blank">SVG Backgrounds</a></p>
+<p><a href="https://www.flaticon.com/" target="_blank">Flaticon</a></p>
+<p><a href="https://iconoir.com/" target="_blank">Iconoir</a></p>
+<p><a href="https://feathericons.com/" target="_blank">Feather Icons</a></p>
+<p><a href="https://www.iconmonstr.com/" target="_blank">Iconmonstr</a></p>
+<p><a href="https://www.streamlinehq.com/" target="_blank">Streamline Icons</a></p>
+<p><a href="https://lucide.dev/" target="_blank">Lucide Icons</a></p>
+<p><a href="https://tabler.io/icons" target="_blank">Tabler Icons</a></p>
 
 <hr>
 
