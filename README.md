@@ -5,22 +5,15 @@
   Incluye vista previa, copiado rápido y una galería de SVGs descargables para tus proyectos.
 </blockquote>
 
-
-<p>
-  <a href="https://tusitio.vercel.app">
-    <img src="https://img.shields.io/badge/Probar%20herramienta-En%20línea-blue" alt="Web Tool">
-  </a>
-</p>
-
 <hr>
 
-<h2>📚 Tabla de Contenidos</h2>
+<h2>📚 Contenidos</h2>
 <ul>
   <li><a href="#introducción">📖 Introducción</a></li>
   <li><a href="#funcionalidades">⚙️ Funcionalidades</a></li>
   <li><a href="#vista-de-la-herramienta">📸 Vista de la herramienta</a></li>
   <li><a href="#cómo-usar-la-herramienta">🌐 Cómo usar la herramienta</a></li>
-  <li><a href="#descarga-svgs-para-tus-proyectos">🎨 Descarga SVGs para tus proyectos</a></li>
+  <li><a href="#descarga-svgs-para-tus-proyectos">🎨 Bonus: Descarga SVGs</a></li>
   <li><a href="#manual-práctico-svg-en-power-apps">📘 Manual práctico: SVG en Power Apps</a></li>
   <li><a href="#autor">👨‍💻 Autor</a></li>
   <li><a href="#licencia">📄 Licencia</a></li>
@@ -136,3 +129,9 @@
   MIT — Puedes usar, modificar y compartir libremente esta herramienta.<br>
   ¡Una estrella ⭐ ayuda mucho si te fue útil!
 </p>
+
+
+<div align="center">
+  <p>Hecho con café ☕, bugs 🐛 y hechizos ✨ por <a href="https://github.com/sirbate">Andrés Velásquez</a></p>
+  <p>Este proyecto no fue probado en producción... pero sí en sueños.</p>
+</div>
