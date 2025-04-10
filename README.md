@@ -124,6 +124,6 @@
 <hr>
 
 <div align="center">
-  <p>Hecho con pasión, café y alguna que otra crisis existencial por <a href="https://github.com/sirbate">Andrés Velásquez</a></p>
+  <p>Hecho con ❤️ por <a href="https://github.com/sirbate">Andrés Velásquez</a></p>
   <p>Este proyecto no fue probado en producción... pero sí en sueños.</p>
 </div>
