@@ -11,7 +11,7 @@
   <li><a href="#funcionalidades">⚙️ Funcionalidades</a></li>
   <li><a href="#vista-de-la-herramienta">📸 Vista de la herramienta</a></li>
   <li><a href="#cómo-usar-la-herramienta">🚀 Cómo usar la herramienta</a></li>
-  <li><a href="#descarga-svgs-para-tus-proyectos">🎨 Bonus: Descarga SVGs</a></li>
+  <li><a href="#descarga-svgs-para-tus-proyectos">🔥 Bonus: Descarga SVGs para tus proyectos</a></li>
   <li><a href="#manual-práctico-svg-en-power-apps">📘 Manual práctico: SVG en Power Apps</a></li>
 </ul>
 
@@ -68,25 +68,36 @@ Subir captura de herramienta en uso
 
 <hr>
 
-<h2 id="descarga-svgs-para-tus-proyectos">🎨 Descarga SVGs para tus proyectos</h2>
+<h2 id="descarga-svgs-para-tus-proyectos">🔥 Bonus: Descarga SVGs para tus proyectos</h2>
+<p>¿No tienes un SVG a mano? Estas páginas te ofrecen miles de recursos gratuitos y personalizables:</p>
 
-<p>
-  ¿No tienes un SVG a mano? En las siguientes galerías de páginas externas puedes encontrar algunos:
-</p>
-
-<p><a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a></p>
-<p><a href="https://svgl.app/" target="_blank">SVGL</a></p>
-<p><a href="https://heroicons.com/" target="_blank">Heroicons</a></p>
-<p><a href="https://fontawesome.com/icons" target="_blank">Font Awesome</a></p>
-<p><a href="https://www.svgrepo.com/" target="_blank">SVG Repo</a></p>
-<p><a href="https://www.svgbackgrounds.com/" target="_blank">SVG Backgrounds</a></p>
-<p><a href="https://www.flaticon.com/" target="_blank">Flaticon</a></p>
-<p><a href="https://iconoir.com/" target="_blank">Iconoir</a></p>
-<p><a href="https://feathericons.com/" target="_blank">Feather Icons</a></p>
-<p><a href="https://www.iconmonstr.com/" target="_blank">Iconmonstr</a></p>
-<p><a href="https://www.streamlinehq.com/" target="_blank">Streamline Icons</a></p>
-<p><a href="https://lucide.dev/" target="_blank">Lucide Icons</a></p>
-<p><a href="https://tabler.io/icons" target="_blank">Tabler Icons</a></p>
+<table>
+  <tr>
+    <td>🔹 <a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a></td>
+    <td>🔹 <a href="https://heroicons.com/" target="_blank">Heroicons</a></td>
+    <td>🔹 <a href="https://svgl.app/" target="_blank">SVGL</a></td>
+  </tr>
+  <tr>
+    <td>🔹 <a href="https://fontawesome.com/icons" target="_blank">Font Awesome</a></td>
+    <td>🔹 <a href="https://www.svgrepo.com/" target="_blank">SVG Repo</a></td>
+    <td>🔹 <a href="https://www.svgbackgrounds.com/" target="_blank">SVG Backgrounds</a></td>
+  </tr>
+  <tr>
+    <td>🔹 <a href="https://www.flaticon.com/" target="_blank">Flaticon</a></td>
+    <td>🔹 <a href="https://iconoir.com/" target="_blank">Iconoir</a></td>
+    <td>🔹 <a href="https://feathericons.com/" target="_blank">Feather Icons</a></td>
+  </tr>
+  <tr>
+    <td>🔹 <a href="https://www.iconmonstr.com/" target="_blank">Iconmonstr</a></td>
+    <td>🔹 <a href="https://www.streamlinehq.com/" target="_blank">Streamline Icons</a></td>
+    <td>🔹 <a href="https://lucide.dev/" target="_blank">Lucide Icons</a></td>
+  </tr>
+  <tr>
+    <td>🔹 <a href="https://tabler.io/icons" target="_blank">Tabler Icons</a></td>
+    <td>🔹 <a href="https://www.svgsilh.com/" target="_blank">SVG Silh</a></td>
+    <td>🔹 <a href="https://fonts.google.com/icons" target="_blank">Google Material Icons</a></td>
+  </tr>
+</table>
 
 <hr>
 
