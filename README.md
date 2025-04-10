@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://svgmagic-sirbates-projects.vercel.app/"  target="_blank">
-    <img src="assets/SVGMagicIcon.png" width="717" height="527" alt="SVG Magic for Power Apps" />
+    <img src="assets/SVGMagicIcon_Cut" width="717" height="527" alt="SVG Magic for Power Apps" />
   </a>
 </div>
 
