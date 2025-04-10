@@ -1,4 +1,4 @@
-<h1>🧩 SVG to Power Apps + YAML Converter</h1>
+<h1>🧙‍♂️ SVG Magic</h1>
 
 <blockquote>
   Herramienta web para convertir gráficos SVG en código compatible con Power Apps y estructuras YAML reutilizables. 
