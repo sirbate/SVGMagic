@@ -5,7 +5,7 @@
 </blockquote>
 
 <div align="center">
-  <a href="https://svgmagic-sirbates-projects.vercel.app/"  target="_blank">
+  <a href="https://svgmagic.vercel.app"  target="_blank">
     <img src="assets/SVGMagicIconCut.png" width="717" height="527" alt="SVG Magic for Power Apps" />  
   </a>
 </div>
@@ -32,12 +32,14 @@
 </ul>
 
 <h2 id="vista-de-la-herramienta">📸 Vista de la herramienta</h2>
-<p>![Vista previa de SVG Magic](ruta/a/la/imagen.png)</p>
-<p><em>Nota: Asegúrate de reemplazar "ruta/a/la/imagen.png" con la ruta correcta a la captura de pantalla de la herramienta.</em></p>
-
+<div align="center">
+  <a  >
+    <img src="assets/SVGMagicImage" width="717" height="527" alt="SVG Magic for Power Apps" />  
+  </a>
+</div>
 <h2 id="cómo-usar-la-herramienta">🚀 Cómo usar la herramienta</h2>
 <ol>
-  <li>Abre la app en: <a href="https://svgmagic-sirbates-projects.vercel.app/">https://svgmagic-sirbates-projects.vercel.app/</a></li>
+  <li>Abre la app en: <a href="https://svgmagic.vercel.app/">https://svgmagic.vercel.app/</a></li>
   <li>Carga un archivo <code>.svg</code> o pega el código SVG</li>
   <li>Si el SVG seleccionado solo tiene un color, podrás cambiar su color:</li>
   <li>Haz clic en:
