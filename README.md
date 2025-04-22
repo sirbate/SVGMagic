@@ -76,12 +76,8 @@
   <li><a href="https://heroicons.com/" target="_blank"><strong>Heroicons</strong></a> – Íconos para apps modernas, optimizados para Tailwind.</li>
   <li><a href="https://fontawesome.com/icons" target="_blank"><strong>Font Awesome</strong></a> – La colección más famosa y versátil.</li>
   <li><a href="https://www.svgrepo.com/" target="_blank"><strong>SVG Repo</strong></a> – Repositorio con miles de SVGs gratuitos.</li>
-  <li><a href="https://www.svgbackgrounds.com/" target="_blank"><strong>SVG Backgrounds</strong></a> – Fondos SVG personalizables para apps o sitios web.</li>
-  <li><a href="https://www.flaticon.com/" target="_blank"><strong>Flaticon</strong></a> – Miles de íconos editables para todo tipo de proyecto.</li>
   <li><a href="https://iconoir.com/" target="_blank"><strong>Iconoir</strong></a> – Colección open-source, elegante y robusta.</li>
   <li><a href="https://feathericons.com/" target="_blank"><strong>Feather Icons</strong></a> – Íconos simples y livianos.</li>
-  <li><a href="https://www.iconmonstr.com/" target="_blank"><strong>Iconmonstr</strong></a> – Estilo sólido y coherente, sin complicaciones.</li>
-  <li><a href="https://www.streamlinehq.com/" target="_blank"><strong>Streamline Icons</strong></a> – Ilustraciones e íconos profesionales.</li>
   <li><a href="https://lucide.dev/" target="_blank"><strong>Lucide Icons</strong></a> – Una versión refinada de Feather, más flexible.</li>
   <li><a href="https://tabler.io/icons" target="_blank"><strong>Tabler Icons</strong></a> – Librería con estilo limpio, ideal para dashboards.</li>
   <li><a href="https://www.svgsilh.com/" target="_blank"><strong>SVG Silh</strong></a> – Siluetas SVG para diseño e ilustración.</li>
