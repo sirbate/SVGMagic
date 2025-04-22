@@ -46,21 +46,33 @@
         <a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a> o 
         <a href="https://heroicons.com/" target="_blank">Heroicons</a>, y pégalo en el campo de texto.
       </li>
+      <div align="center">
+    <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />  
+</div>
       <li>
         <strong>Subir archivo SVG:</strong> Haz clic en el botón de carga y selecciona tu archivo <code>.svg</code>.
       </li>
+      <div align="center">
+    <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />  
+</div>
     </ul>
   </li>
   <li>
     <strong>Personaliza el color:</strong> Si tu SVG tiene un solo color, podrás cambiarlo utilizando el selector de color. 
     <em>Nota: Si tu SVG tiene múltiples colores, esta funcionalidad aún no está disponible, pero estamos trabajando en ello.</em>
   </li>
+  <div align="center">
+    <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />  
+</div>
   <li>
     <strong>Exporta tu SVG:</strong> Una vez personalizado, puedes:
     <ul>
       <li>💾 Copiar código Power FX</li>
       <li>💾 Copiar estructura YAML</li>
     </ul>
+    <div align="center">
+    <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />  
+</div>
   </li>
   <li>
     <strong>¡Listo!</strong> Ahora puedes pegar el código en tu aplicación Power Apps.
