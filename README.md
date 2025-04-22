@@ -33,7 +33,7 @@
 
 <h2 id="vista-de-la-herramienta">📸 Vista de la herramienta</h2>
 <div align="center">
-    <img src="assets/SVGMagicImage.png" width="936" height="527" alt="SVG Magic for Power Apps" />  
+    <img src="assets/SVGMagicImage.gif" width="936" height="527" alt="SVG Magic for Power Apps" />  
 </div>
 <h2 id="cómo-usar-la-herramienta">🚀 Cómo usar la herramienta</h2>
 <ol>
