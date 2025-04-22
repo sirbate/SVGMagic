@@ -38,16 +38,35 @@
 <h2 id="cómo-usar-la-herramienta">🚀 Cómo usar la herramienta</h2>
 <ol>
   <li>Abre la app en: <a href="https://svgmagic.vercel.app/">https://svgmagic.vercel.app/</a></li>
-  <li>Carga un archivo <code>.svg</code> o pega el código SVG</li>
-  <li>Si el SVG seleccionado solo tiene un color, podrás cambiar su color:</li>
-  <li>Haz clic en:
+  <li>
+    <strong>Carga tu SVG:</strong> Tienes dos opciones:
     <ul>
-      <li>✂️ Copiar código Power FX</li>
-      <li>✂️ Copiar estructura YAML</li>
+      <li>
+        <strong>Pegar código SVG:</strong> Copia el código SVG desde una galería de íconos como 
+        <a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a> o 
+        <a href="https://heroicons.com/" target="_blank">Heroicons</a>, y pégalo en el campo de texto.
+      </li>
+      <li>
+        <strong>Subir archivo SVG:</strong> Haz clic en el botón de carga y selecciona tu archivo <code>.svg</code>.
+      </li>
     </ul>
   </li>
-  <li>¡Listo! Ya puedes pegarlo en tu app.</li>
+  <li>
+    <strong>Personaliza el color:</strong> Si tu SVG tiene un solo color, podrás cambiarlo utilizando el selector de color. 
+    <em>Nota: Si tu SVG tiene múltiples colores, esta funcionalidad aún no está disponible, pero estamos trabajando en ello.</em>
+  </li>
+  <li>
+    <strong>Exporta tu SVG:</strong> Una vez personalizado, puedes:
+    <ul>
+      <li>💾 Copiar código Power FX</li>
+      <li>💾 Copiar estructura YAML</li>
+    </ul>
+  </li>
+  <li>
+    <strong>¡Listo!</strong> Ahora puedes pegar el código en tu aplicación Power Apps.
+  </li>
 </ol>
+
 
 <h2 id="cómo-usar-un-svg-en-power-apps">🛠️ Cómo usar un SVG en Power Apps</h2>
 <p>Dependiendo de la opción que hayas elegido anteriormente, sigue los siguientes pasos:</p>
