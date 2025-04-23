@@ -68,11 +68,11 @@
 
 
 <p>3. <strong>Personaliza el color:</strong> Si tu SVG tiene un solo color, podrás cambiarlo utilizando el selector de color. 
-<em>Nota: Si tu SVG tiene múltiples colores, esta funcionalidad aún no está disponible, pero estamos trabajando en ello.</em></p>
+<em>Nota: Si tu SVG tiene múltiples colores, esta funcionalidad aún no está disponible, pero estoy trabajando en ello.</em></p>
 
 
 <div align="center">
-  <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
+  <img src="assets/selectColor.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
 </div>
 
 
