@@ -31,53 +31,54 @@
   <li>✅ Generación de estructura YAML</li>
 </ul>
 
-<h2 id="vista-de-la-herramienta">📸 Vista de la herramienta</h2>
-<div align="center">
-    <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />  
-</div>
 <h2 id="cómo-usar-la-herramienta">🚀 Cómo usar la herramienta</h2>
-<ol>
-  <li>Abre la app en: <a href="https://svgmagic.vercel.app/">https://svgmagic.vercel.app/</a></li>
+
+<p>1. Abre la app en: <a href="https://svgmagic.vercel.app/">https://svgmagic.vercel.app/</a></p>
+
+<p>2. <strong>Carga tu SVG:</strong> Tienes dos opciones:</p>
+
+<ul>
   <li>
-    <strong>Carga tu SVG:</strong> Tienes dos opciones:
-    <ul>
-      <li>
-        <strong>Pegar código SVG:</strong> Copia el código SVG desde una galería de íconos como 
-        <a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a> o 
-        <a href="https://heroicons.com/" target="_blank">Heroicons</a>, y pégalo en el campo de texto.
-      </li>
-      <div align="center">
-    <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />  
-</div>
-      <li>
-        <strong>Subir archivo SVG:</strong> Haz clic en el botón de carga y selecciona tu archivo <code>.svg</code>.
-      </li>
-      <div align="center">
-    <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />  
-</div>
-    </ul>
+    <strong>Pegar código SVG:</strong> Copia el código SVG desde una galería de íconos como 
+    <a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a> o 
+    <a href="https://heroicons.com/" target="_blank">Heroicons</a>, y pégalo en el campo de texto.
   </li>
+</ul>
+
+<div align="center">
+  <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
+</div>
+
+<ul>
   <li>
-    <strong>Personaliza el color:</strong> Si tu SVG tiene un solo color, podrás cambiarlo utilizando el selector de color. 
-    <em>Nota: Si tu SVG tiene múltiples colores, esta funcionalidad aún no está disponible, pero estamos trabajando en ello.</em>
+    <strong>Subir archivo SVG:</strong> Haz clic en el botón de carga y selecciona tu archivo <code>.svg</code>.
   </li>
-  <div align="center">
-    <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />  
+</ul>
+
+<div align="center">
+  <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
 </div>
-  <li>
-    <strong>Exporta tu SVG:</strong> Una vez personalizado, puedes:
-    <ul>
-      <li>💾 Copiar código Power FX</li>
-      <li>💾 Copiar estructura YAML</li>
-    </ul>
-    <div align="center">
-    <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />  
+
+<p>3. <strong>Personaliza el color:</strong> Si tu SVG tiene un solo color, podrás cambiarlo utilizando el selector de color. 
+<em>Nota: Si tu SVG tiene múltiples colores, esta funcionalidad aún no está disponible, pero estamos trabajando en ello.</em></p>
+
+<div align="center">
+  <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
 </div>
-  </li>
-  <li>
-    <strong>¡Listo!</strong> Ahora puedes pegar el código en tu aplicación Power Apps.
-  </li>
-</ol>
+
+<p>4. <strong>Exporta tu SVG:</strong> Una vez personalizado, puedes:</p>
+
+<ul>
+  <li>💾 Copiar código Power FX</li>
+  <li>💾 Copiar estructura YAML</li>
+</ul>
+
+<div align="center">
+  <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
+</div>
+
+<p>5. <strong>¡Listo!</strong> Ahora puedes usar el código en tu aplicación Power Apps.</p>
+
 
 
 <h2 id="cómo-usar-un-svg-en-power-apps">🛠️ Cómo usar un SVG en Power Apps</h2>
