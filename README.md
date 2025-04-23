@@ -86,7 +86,7 @@
 
 
 <div align="center">
-  <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
+  <img src="assets/CopySave.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
 </div>
 
 
