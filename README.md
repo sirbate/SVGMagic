@@ -31,6 +31,10 @@
   <li>✅ Generación de estructura YAML</li>
 </ul>
 
+<h2 id="vista-de-la-herramienta">📸 Vista de la herramienta</h2>
+<div align="center">
+    <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />  
+</div>
 <h2 id="cómo-usar-la-herramienta">🚀 Cómo usar la herramienta</h2>
 
 <p>1. Abre la app en: <a href="https://svgmagic.vercel.app/">https://svgmagic.vercel.app/</a></p>
@@ -77,7 +81,7 @@
   <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
 </div>
 
-<p>5. <strong>¡Listo!</strong> Ahora puedes usar el código en tu aplicación Power Apps.</p>
+<p>5. <strong>¡Listo!</strong> Ahora puedes pegar el código en tu aplicación Power Apps.</p>
 
 
 
