@@ -1,136 +1,110 @@
-<h1>🧙‍♂️ SVG Magic for Power Apps</h1>
+# 🧙‍♂️ SVG Magic for Power Apps
 
-<blockquote>
-  Incluir íconos personalizados en Power Apps puede ser un desafío. Las imágenes tradicionales pueden perder calidad y dificultar la adaptación a la paleta de colores de tu aplicación. Aunque los SVG ofrecen una alternativa más flexible y escalable, integrarlos requiere manipulación manual del código y ajustes de color. <strong>SVG Magic</strong> simplifica este proceso, permitiéndote editar y exportar tus gráficos SVG de manera eficiente, generando el código necesario para integrarlos perfectamente en tus aplicaciones.
-</blockquote>
+> Incluir íconos personalizados en Power Apps puede ser un desafío. Las imágenes tradicionales pueden perder calidad y dificultar la adaptación a la paleta de colores de tu aplicación. Aunque los SVG ofrecen una alternativa más flexible y escalable, integrarlos requiere manipulación manual del código y ajustes de color. **SVG Magic** simplifica este proceso, permitiéndote editar y exportar tus gráficos SVG de manera eficiente, generando el código necesario para integrarlos perfectamente en tus aplicaciones.
 
 <div align="center">
-  <a href="https://svgmagic.vercel.app"  target="_blank">
+  <a href="https://svgmagic.vercel.app" target="_blank">
     <img src="assets/SVGMagicIconCut.png" width="717" height="527" alt="SVG Magic for Power Apps" />  
   </a>
 </div>
 
+## 📚 Contenido
 
+- [⚙️ Funcionalidades](#️-funcionalidades)
+- [📸 Vista de la herramienta](#-vista-de-la-herramienta)
+- [🚀 Cómo usar la herramienta](#-cómo-usar-la-herramienta)
+- [🛠️ Cómo usar un SVG en Power Apps](#️-cómo-usar-un-svg-en-power-apps)
+- [🔥 Bonus: Descarga SVGs para tus proyectos](#-bonus-descarga-svgs-para-tus-proyectos)
 
-<h2>📚 Contenido</h2>
-<ul>
-  <li><a href="#funcionalidades">⚙️ Funcionalidades</a></li>
-  <li><a href="#vista-de-la-herramienta">📸 Vista de la herramienta</a></li>
-  <li><a href="#cómo-usar-la-herramienta">🚀 Cómo usar la herramienta</a></li>
-  <li><a href="#cómo-usar-un-svg-en-power-apps">🛠️ Cómo usar un SVG en Power Apps</a></li>
-  <li><a href="#descarga-svgs-para-tus-proyectos">🔥 Bonus: Descarga SVGs para tus proyectos</a></li>
-</ul>
+## ⚙️ Funcionalidades
 
-<h2 id="funcionalidades">⚙️ Funcionalidades</h2>
-<ul>
-  <li>✅ Pegar código SVG</li>
-  <li>✅ Cargar archivos SVG directamente</li>
-  <li>✅ Vista previa en tiempo real del SVG</li>
-  <li>✅ Edición de color principal</li>
-  <li>✅ Generación de código Power FX</li>
-  <li>✅ Generación de estructura YAML</li>
-</ul>
+- ✅ Pegar código SVG
+- ✅ Cargar archivos SVG directamente
+- ✅ Vista previa en tiempo real del SVG
+- ✅ Edición de color principal
+- ✅ Generación de código Power FX
+- ✅ Generación de estructura YAML
 
-<h2 id="vista-de-la-herramienta">📸 Vista de la herramienta</h2>
+## 📸 Vista de la herramienta
+
 <div align="center">
     <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />  
 </div>
-<h2 id="cómo-usar-la-herramienta">🚀 Cómo usar la herramienta</h2>
 
-<p>1. Abre la app en: <a href="https://svgmagic.vercel.app/">https://svgmagic.vercel.app/</a></p>
+## 🚀 Cómo usar la herramienta
 
-<p>2. <strong>Carga tu SVG:</strong> Tienes dos opciones:</p>
+1. Abre la app en: [https://svgmagic.vercel.app/](https://svgmagic.vercel.app/)
 
-<ul>
-  <li>
-    <strong>Pegar código SVG:</strong> Copia el código SVG desde una galería de íconos como 
-    <a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a> o 
-    <a href="https://heroicons.com/" target="_blank">Heroicons</a>, y pégalo en el campo de texto.
-  </li>
-</ul>
+2. **Carga tu SVG:** Tienes dos opciones:
 
+   - **Pegar código SVG:** Copia el código SVG desde una galería de íconos como 
+     [Bootstrap Icons](https://icons.getbootstrap.com/) o 
+     [Heroicons](https://heroicons.com/), y pégalo en el campo de texto.
 
 <div align="center">
   <img src="assets/CopyCode.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
 </div>
 
-
-<ul>
-  <li>
-    <strong>Subir archivo SVG:</strong> Haz clic en el botón de carga y selecciona tu archivo <code>.svg</code>.
-  </li>
-</ul>
-
+   - **Subir archivo SVG:** Haz clic en el botón de carga y selecciona tu archivo `.svg`.
 
 <div align="center">
   <img src="assets/FileCode.png" width="936" height="527" alt="SVG Magic for Power Apps" />
 </div>
 
-
-<p>3. <strong>Personaliza el color:</strong> Si tu SVG tiene un solo color, podrás cambiarlo utilizando el selector de color. 
-<em>Nota: Si tu SVG tiene múltiples colores, esta funcionalidad aún no está disponible, pero estoy trabajando en ello.</em></p>
-
+3. **Personaliza el color:** Si tu SVG tiene un solo color, podrás cambiarlo utilizando el selector de color. 
+   *Nota: Si tu SVG tiene múltiples colores, esta funcionalidad aún no está disponible, pero estoy trabajando en ello.*
 
 <div align="center">
   <img src="assets/selectColor.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
 </div>
 
+4. **Exporta tu SVG:** Una vez personalizado, puedes:
 
-<p>4. <strong>Exporta tu SVG:</strong> Una vez personalizado, puedes:</p>
-
-
-<ul>
-  <li>💾 Copiar código Power FX</li>
-  <li>💾 Copiar estructura YAML</li>
-</ul>
-
+   - 💾 Copiar código Power FX
+   - 💾 Copiar estructura YAML
 
 <div align="center">
   <img src="assets/CopySave.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
 </div>
 
+5. **¡Listo!** Ahora puedes usar el código en tu aplicación Power Apps.
 
-<p>5. <strong>¡Listo!</strong> Ahora puedes usar el código en tu aplicación Power Apps.</p>
+## 🛠️ Cómo usar un SVG en Power Apps
 
+Dependiendo de la opción que hayas elegido anteriormente, sigue los siguientes pasos:
 
+### Usando el código Power FX
 
-<h2 id="cómo-usar-un-svg-en-power-apps">🛠️ Cómo usar un SVG en Power Apps</h2>
-<p>Dependiendo de la opción que hayas elegido anteriormente, sigue los siguientes pasos:</p>
+1. Abre tu aplicación en Power Apps.
+2. Inserta un control de imagen ("Image").
+3. En su propiedad `Image`, pega el código que copiaste desde SVG Magic.
+4. Modifica el tamaño y ubica la imagen a tu gusto.
 
-<h3>Usando el código Power FX</h3>
-<ol>
-  <li>Abre tu aplicación en Power Apps.</li>
-  <li>Inserta un control de imagen ("Image").</li>
-  <li>En su propiedad <code>Image</code>, pega el código que copiaste desde SVG Magic.</li>
-  <li>Modifica el tamaño y ubica la imagen a tu gusto.</li>
-</ol>
+### Usando la estructura YAML
 
-<h3>Usando la estructura YAML</h3>
-<ol>
-  <li>Abre tu aplicación en Power Apps.</li>
-  <li>En la vista de árbol, selecciona la pantalla donde quieras insertar el SVG.</li>
-  <li>Haz clic en los tres puntos y selecciona "Pegar -preview-".</li>
-  <li>Se insertará una imagen con el nombre "SVGMagic". Modifica el tamaño y ubica la imagen a tu gusto.</li>
-</ol>
+1. Abre tu aplicación en Power Apps.
+2. En la vista de árbol, selecciona la pantalla donde quieras insertar el SVG.
+3. Haz clic en los tres puntos y selecciona "Pegar -preview-".
+4. Se insertará una imagen con el nombre "SVGMagic". Modifica el tamaño y ubica la imagen a tu gusto.
 
-<h2 id="descarga-svgs-para-tus-proyectos">🔥 Bonus: Descarga SVGs para tus proyectos</h2>
-<p>¿No tienes un SVG a mano? Estas páginas te ofrecen miles de recursos gratuitos y personalizables:</p>
-<ul>
-  <li><a href="https://icons.getbootstrap.com/" target="_blank"><strong>Bootstrap Icons</strong></a> – Íconos modernos del ecosistema Bootstrap.</li>
-  <li><a href="https://svgl.app/" target="_blank"><strong>SVGL</strong></a> – Herramienta visual para editar y copiar SVGs en segundos.</li>
-  <li><a href="https://heroicons.com/" target="_blank"><strong>Heroicons</strong></a> – Íconos para apps modernas, optimizados para Tailwind.</li>
-  <li><a href="https://fontawesome.com/icons" target="_blank"><strong>Font Awesome</strong></a> – La colección más famosa y versátil.</li>
-  <li><a href="https://www.svgrepo.com/" target="_blank"><strong>SVG Repo</strong></a> – Repositorio con miles de SVGs gratuitos.</li>
-  <li><a href="https://iconoir.com/" target="_blank"><strong>Iconoir</strong></a> – Colección open-source, elegante y robusta.</li>
-  <li><a href="https://feathericons.com/" target="_blank"><strong>Feather Icons</strong></a> – Íconos simples y livianos.</li>
-  <li><a href="https://lucide.dev/" target="_blank"><strong>Lucide Icons</strong></a> – Una versión refinada de Feather, más flexible.</li>
-  <li><a href="https://tabler.io/icons" target="_blank"><strong>Tabler Icons</strong></a> – Librería con estilo limpio, ideal para dashboards.</li>
-  <li><a href="https://www.svgsilh.com/" target="_blank"><strong>SVG Silh</strong></a> – Siluetas SVG para diseño e ilustración.</li>
-  <li><a href="https://fonts.google.com/icons" target="_blank"><strong>Material Icons</strong></a> – Íconos de Google, ideales para interfaces limpias.</li>
-</ul>
+## 🔥 Bonus: Descarga SVGs para tus proyectos
 
-<br>
-<br>
+¿No tienes un SVG a mano? Estas páginas te ofrecen miles de recursos gratuitos y personalizables:
+
+- [**Bootstrap Icons**](https://icons.getbootstrap.com/) – Íconos modernos del ecosistema Bootstrap.
+- [**SVGL**](https://svgl.app/) – Herramienta visual para editar y copiar SVGs en segundos.
+- [**Heroicons**](https://heroicons.com/) – Íconos para apps modernas, optimizados para Tailwind.
+- [**Font Awesome**](https://fontawesome.com/icons) – La colección más famosa y versátil.
+- [**SVG Repo**](https://www.svgrepo.com/) – Repositorio con miles de SVGs gratuitos.
+- [**Iconoir**](https://iconoir.com/) – Colección open-source, elegante y robusta.
+- [**Feather Icons**](https://feathericons.com/) – Íconos simples y livianos.
+- [**Lucide Icons**](https://lucide.dev/) – Una versión refinada de Feather, más flexible.
+- [**Tabler Icons**](https://tabler.io/icons) – Librería con estilo limpio, ideal para dashboards.
+- [**SVG Silh**](https://www.svgsilh.com/) – Siluetas SVG para diseño e ilustración.
+- [**Material Icons**](https://fonts.google.com/icons) – Íconos de Google, ideales para interfaces limpias.
+
+---
+
 <div align="center">
   <p>Hecho con ❤️ por <a href="https://github.com/sirbate">Andrés Velásquez</a></p>
   <p>Este proyecto no fue probado en producción... pero sí en sueños.</p>
