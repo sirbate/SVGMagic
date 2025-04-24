@@ -50,6 +50,9 @@
 </ul>
 
 
+<div align="center">
+  <img src="assets/CopyCode.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
+</div>
 
 
 <ul>
@@ -59,13 +62,18 @@
 </ul>
 
 
+<div align="center">
+  <img src="assets/FileCode.png" width="936" height="527" alt="SVG Magic for Power Apps" />
+</div>
 
 
 <p>3. <strong>Personaliza el color:</strong> Si tu SVG tiene un solo color, podrás cambiarlo utilizando el selector de color. 
 <em>Nota: Si tu SVG tiene múltiples colores, esta funcionalidad aún no está disponible, pero estoy trabajando en ello.</em></p>
 
 
-
+<div align="center">
+  <img src="assets/selectColor.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
+</div>
 
 
 <p>4. <strong>Exporta tu SVG:</strong> Una vez personalizado, puedes:</p>
@@ -77,6 +85,9 @@
 </ul>
 
 
+<div align="center">
+  <img src="assets/CopySave.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
+</div>
 
 
 <p>5. <strong>¡Listo!</strong> Ahora puedes usar el código en tu aplicación Power Apps.</p>
