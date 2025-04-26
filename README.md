@@ -28,7 +28,7 @@
 ## 📸 Vista de la herramienta
 
 <div align="center">
-    <img src="assets/SVGMagicScreen.gif" width="936" height="527" alt="SVG Magic for Power Apps" />  
+    <img src="assets/SVGMagicScreen.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />  
 </div>
 
 ## 🚀 Cómo usar la herramienta
@@ -42,20 +42,20 @@
      [Heroicons](https://heroicons.com/), y pégalo en el campo de texto.
 
 <div align="center">
-  <img src="assets/CopyCode.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
+  <img src="assets/CopyCode.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />
 </div>
 
    - **Subir archivo SVG:** Haz clic en el botón de carga y selecciona tu archivo `.svg`.
 
 <div align="center">
-  <img src="assets/FileCode.png" width="936" height="527" alt="SVG Magic for Power Apps" />
+  <img src="assets/FileCode.png" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />
 </div>
 
 3. **Personaliza el color:** Si tu SVG tiene un solo color, podrás cambiarlo utilizando el selector de color. 
    *Nota: Si tu SVG tiene múltiples colores, esta funcionalidad aún no está disponible, pero estoy trabajando en ello.*
 
 <div align="center">
-  <img src="assets/selectColor.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
+  <img src="assets/selectColor.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />
 </div>
 
 4. **Exporta tu SVG:** Una vez personalizado, puedes:
@@ -64,7 +64,7 @@
    - 💾 Copiar estructura YAML
 
 <div align="center">
-  <img src="assets/CopySave.gif" width="936" height="527" alt="SVG Magic for Power Apps" />
+  <img src="assets/CopySave.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />
 </div>
 
 5. **¡Listo!** Ahora puedes usar el código en tu aplicación Power Apps.
