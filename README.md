@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://svgmagic.vercel.app" target="_blank">
-    <img src="assets/SVGMagicIconCut.png" width="717" height="527" alt="SVG Magic for Power Apps" />  
+    <img src="assets/SVGMagicIconCut.png" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />  
   </a>
 </div>
 
