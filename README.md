@@ -95,6 +95,13 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+
+<p>El código copiado se verá así:</p>
+
+<pre><code>"data:image/svg+xml;utf8," & EncodeUrl("&lt;svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='blue'&gt;&lt;circle cx='50' cy='50' r='40' /&gt;&lt;/svg&gt;")
+</code></pre>
+
+
 <p align="center">
   <img src="assets/SVGMagicIconCut.png" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />
 </p>
