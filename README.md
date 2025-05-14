@@ -90,11 +90,15 @@ INSERTAR CODIGO
 
 ### Usando la estructura YAML
 
-INSERTAR CODIGO
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+<p align="center">
+  <img src="assets/SVGMagicIconCut.png" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />
+</p>
 
-<div align="center">
-    <img src="assets/SVGMagicScreen.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />  
-</div>
 
 1. Abre tu aplicación en Power Apps.
 2. En la vista de árbol, selecciona la pantalla donde quieras insertar el SVG.
