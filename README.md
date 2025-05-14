@@ -104,13 +104,17 @@ EncodeUrl(
 <p>El código copiado se verá así:</p>
 
 <pre><code>
-"data:image/svg+xml;utf8," &
-EncodeUrl(
-  "&lt;svg xmlns='http://www.w3.org/2000/svg' " &
-  "width='16' height='16' fill='#16CAAA' class='bi bi-windows' viewBox='0 0 16 16'&gt;" &
-  "&lt;path d='M6.555 1.375 0 2.237v5.45h6.555zM0 13.795l6.555.933V8.313H0zm7.278-5.4.026 6.378L16 16V8.395zM16 0 7.33 1.244v6.414H16z' /&gt;" &
-  "&lt;/svg&gt;"
-)
+"data:image/svg+xml;utf8," & EncodeUrl(
+"<svg xmlns='http://www.w3.org/2000/svg'
+ width='16' height='16' 
+ fill='#16CAAA' 
+class='bi bi-windows' 
+viewBox='0 0 16 16'>   
+<path d='M6.555 1.375 0 2.237v5.45h6.555zM0 
+13.795l6.555.933V8.313H0zm7.278-5.4.026 
+6.378L16 16V8.395zM16 0 7.33 1.244v6.414H16z'>
+</path> 
+</svg>")
 </code></pre>
 
 
