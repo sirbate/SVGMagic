@@ -75,12 +75,26 @@ Dependiendo de la opción que hayas elegido anteriormente, sigue los siguientes 
 
 ### Usando el código Power FX
 
+El codigo copiado se verá asi:
+
+INSERTAR CODIGO
+
+<div align="center">
+    <img src="assets/SVGMagicScreen.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />  
+</div>
+
 1. Abre tu aplicación en Power Apps.
 2. Inserta un control de imagen ("Image").
 3. En su propiedad `Image`, pega el código que copiaste desde SVG Magic.
 4. Modifica el tamaño y ubica la imagen a tu gusto.
 
 ### Usando la estructura YAML
+
+INSERTAR CODIGO
+
+<div align="center">
+    <img src="assets/SVGMagicScreen.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />  
+</div>
 
 1. Abre tu aplicación en Power Apps.
 2. En la vista de árbol, selecciona la pantalla donde quieras insertar el SVG.
