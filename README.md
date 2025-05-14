@@ -82,14 +82,14 @@ Dependiendo de la opción que hayas elegido anteriormente, sigue los siguientes 
 <path d='M6.555 1.375 0 2.237v5.45h6.55zM0 13.795l6.555.933V8.313H0zm7.278-5.4.026 6.378L16 16V8.395zM16 0 7.33 1.244v6.414H16z'> </path> </svg>")
 ```
 
-<div align="center">
-    <img src="assets/SVGMagicScreen.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />  
-</div>
-
 1. Abre tu aplicación en Power Apps.
 2. Inserta un control de imagen ("Image").
 3. En su propiedad `Image`, pega el código que copiaste desde SVG Magic.
 4. Modifica el tamaño y ubica la imagen a tu gusto.
+
+<p align="center">
+  <img src="assets/SVGMagicScreen.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" /> 
+</p>
 
 ### Usando la estructura YAML
 
@@ -107,15 +107,14 @@ Dependiendo de la opción que hayas elegido anteriormente, sigue los siguientes 
         Y: =50
 ```
 
-<p align="center">
-  <img src="assets/SVGMagicIconCut.png" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />
-</p>
-
-
 1. Abre tu aplicación en Power Apps.
 2. En la vista de árbol, selecciona la pantalla donde quieras insertar el SVG.
 3. Haz clic en los tres puntos y selecciona "Pegar -preview-".
 4. Se insertará una imagen con el nombre "SVGMagic". Modifica el tamaño y ubica la imagen a tu gusto.
+
+<p align="center">
+  <img src="assets/SVGMagicScreen.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" /> 
+</p>
 
 ## 🔥 Bonus: Descarga SVGs para tus proyectos
 
