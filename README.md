@@ -75,9 +75,12 @@ Dependiendo de la opción que hayas elegido anteriormente, sigue los siguientes 
 
 ### Usando el código Power FX
 
-El codigo copiado se verá asi:
+<p>El código copiado se verá así:</p>
 
-INSERTAR CODIGO
+```
+"data:image/svg+xml;utf8," & EncodeUrl("<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='#16CAAA' class='bi bi-windows' viewBox='0 0 16 16'>   
+<path d='M6.555 1.375 0 2.237v5.45h6.55zM0 13.795l6.555.933V8.313H0zm7.278-5.4.026 6.378L16 16V8.395zM16 0 7.33 1.244v6.414H16z'> </path> </svg>")
+```
 
 <div align="center">
     <img src="assets/SVGMagicScreen.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />  
@@ -90,19 +93,19 @@ INSERTAR CODIGO
 
 ### Usando la estructura YAML
 
-```
-"data:image/svg+xml;utf8," & EncodeUrl("<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='#16CAAA' class='bi bi-windows' viewBox='0 0 16 16'>   
-<path d='M6.555 1.375 0 2.237v5.45h6.55zM0 13.795l6.555.933V8.313H0zm7.278-5.4.026 6.378L16 16V8.395zM16 0 7.33 1.244v6.414H16z'> </path> </svg>")
-```
-
 <p>El código copiado se verá así:</p>
 
-<pre><code>
-"data:image/svg+xml;utf8," & EncodeUrl("<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='#16CAAA' class='bi bi-windows' viewBox='0 0 16 16'>   
-<path d='M6.555 1.375 0 2.237v5.45h6.55zM0 13.795l6.555.933V8.313H0zm7.278-5.4.026 6.378L16 16V8.395zM16 0 7.33 1.244v6.414H16z'> </path> </svg>")
-</code></pre>
-
-
+```
+- SVGMagic:
+    Control: Image
+    Properties:
+        Image: '= "data:image/svg+xml; utf-8, " & EncodeUrl($"<svg xmlns=''http://www.w3.org/2000/svg'' width=''16'' height=''16'' fill=''#16CAAA'' class=''bi bi-windows'' viewBox=''0 0 16 16''>
+        <path d=''M6.555 1.375 0 2.237v5.45h6.555zM0 13.795l6.555.933V8.313H0zm7.278-5.4.026 6.378L16 16V8.395zM16 0 7.33 1.244v6.414H16z''></path> </svg>")'
+        Height: =150
+        Width: =150
+        X: =50
+        Y: =50
+```
 
 <p align="center">
   <img src="assets/SVGMagicIconCut.png" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />
