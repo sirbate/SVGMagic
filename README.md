@@ -138,5 +138,4 @@ Dependiendo de la opción que hayas elegido anteriormente, sigue los siguientes 
 
 <div align="center">
   <p>Hecho con ❤️ por <a href="https://github.com/sirbate">Andrés Velásquez</a></p>
-  <p>Este proyecto no fue probado en producción... pero sí en sueños.</p>
 </div>
