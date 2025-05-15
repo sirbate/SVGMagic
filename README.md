@@ -88,7 +88,7 @@ Dependiendo de la opción que hayas elegido anteriormente, sigue los siguientes 
 4. Modifica el tamaño y ubica la imagen a tu gusto.
 
 <p align="center">
-  <img src="assets/SVGMagicScreen.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" /> 
+  <img src="assets/FX.gif" style="max-width: 100%; height: auto;" alt="FX instruction" /> 
 </p>
 
 ### Usando la estructura YAML
@@ -113,7 +113,7 @@ Dependiendo de la opción que hayas elegido anteriormente, sigue los siguientes 
 4. Se insertará una imagen con el nombre "SVGMagic". Modifica el tamaño y ubica la imagen a tu gusto.
 
 <p align="center">
-  <img src="assets/SVGMagicScreen.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" /> 
+  <img src="assets/YAML.gif" style="max-width: 100%; height: auto;" alt="YAML instruction" /> 
 </p>
 
 ## 🔥 Bonus: Descarga SVGs para tus proyectos
