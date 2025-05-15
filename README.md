@@ -2,11 +2,11 @@
 
 > Incluir íconos personalizados en Power Apps puede ser un desafío. Las imágenes tradicionales pueden perder calidad y dificultar la adaptación a la paleta de colores de tu aplicación. Aunque los SVG ofrecen una alternativa más flexible y escalable, integrarlos requiere manipulación manual del código y ajustes de color. **SVG Magic** simplifica este proceso, permitiéndote editar y exportar tus gráficos SVG de manera eficiente, generando el código necesario para integrarlos perfectamente en tus aplicaciones.
 
-<div align="center">
-  <a href="https://svgmagic.vercel.app" target="_blank">
+<p align="center">
+    <a href="https://svgmagic.vercel.app" target="_blank">
     <img src="assets/SVGMagicIconCut.png" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />  
   </a>
-</div>
+</p>
 
 ## 📚 Contenido
 
@@ -27,9 +27,10 @@
 
 ## 📸 Vista de la herramienta
 
-<div align="center">
-    <img src="assets/SVGMagicScreen.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />  
-</div>
+<p align="center">
+  <img src="assets/SVGMagicScreen.gif" style="max-width: 100%; height: auto;"  /> 
+</p>
+
 
 ## 🚀 Cómo usar la herramienta
 
@@ -41,31 +42,32 @@
      [Bootstrap Icons](https://icons.getbootstrap.com/) o 
      [Heroicons](https://heroicons.com/), y pégalo en el campo de texto.
 
-<div align="center">
-  <img src="assets/CopyCode.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />
-</div>
+
+<p align="center">
+  <img src="assets/CopyCode.gif" style="max-width: 100%; height: auto;"  /> 
+</p>
 
    - **Subir archivo SVG:** Haz clic en el botón de carga y selecciona tu archivo `.svg`.
 
-<div align="center">
-  <img src="assets/FileCode.png" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />
-</div>
+<p align="center">
+  <img src="assets/FileCode.png" style="max-width: 100%; height: auto;"  /> 
+</p>
 
 3. **Personaliza el color:** Si tu SVG tiene un solo color, podrás cambiarlo utilizando el selector de color. 
    *Nota: Si tu SVG tiene múltiples colores, esta funcionalidad aún no está disponible, pero estoy trabajando en ello.*
 
-<div align="center">
-  <img src="assets/selectColor.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />
-</div>
+<p align="center">
+  <img src="assets/selectColor.gif" style="max-width: 100%; height: auto;"  /> 
+</p>
 
 4. **Exporta tu SVG:** Una vez personalizado, puedes:
 
    - 💾 Copiar código Power FX
    - 💾 Copiar estructura YAML
 
-<div align="center">
-  <img src="assets/CopySave.gif" style="max-width: 100%; height: auto;" alt="SVG Magic for Power Apps" />
-</div>
+<p align="center">
+  <img src="assets/CopySave.gif" style="max-width: 100%; height: auto;"  /> 
+</p>
 
 5. **¡Listo!** Ahora puedes usar el código en tu aplicación Power Apps.
 
